@@ -30,4 +30,5 @@ The Arduino will read temperature data from the LM35 sensor and convert it to Ce
 If the temperature is less than or equal to 30°C, the LED will blink with a 250 ms on/off cycle.
 If the temperature is greater than 30°C, the LED will blink with a 500 ms on/off cycle.
 
+## Video
 [Watch the video](https://player.vimeo.com/video/926378168?h=c2721d6c83)
