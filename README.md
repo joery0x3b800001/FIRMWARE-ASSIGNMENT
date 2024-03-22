@@ -13,11 +13,11 @@ This Arduino sketch reads temperature data from an LM35 temperature sensor and c
 
 ## Components Required
 
-Arduino board
-LM35 temperature sensor
-LED and resistor (for visual indication)
-Jumper wires
-Circuit Diagram
+- Arduino board
+- LM35 temperature sensor
+- LED and resistor (for visual indication)
+- Jumper wires
+- Circuit Diagram
 
 ## Installation
 
