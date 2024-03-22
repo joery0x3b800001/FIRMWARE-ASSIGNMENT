@@ -1,1 +1,1 @@
-![Alt Text]([[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/joery0x3b800001/FIRMWARE-ASSIGNMENT/blob/f15955d48e97772ad59c1ed2c331b2fbaa8b1527/LM35-interfacing.gif)https://github.com/joery0x3b800001/FIRMWARE-ASSIGNMENT/blob/f15955d48e97772ad59c1ed2c331b2fbaa8b1527/LM35-interfacing.gif](https://vimeo.com/926378168?share=copy)https://vimeo.com/926378168?share=copy)
+![Alt Text]([<iframe src="https://player.vimeo.com/video/926378168?h=c2721d6c83" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>])
