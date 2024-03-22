@@ -1,1 +1,1 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/joery0x3b800001/FIRMWARE-ASSIGNMENT/blob/f15955d48e97772ad59c1ed2c331b2fbaa8b1527/LM35-interfacing.gif)https://github.com/joery0x3b800001/FIRMWARE-ASSIGNMENT/blob/f15955d48e97772ad59c1ed2c331b2fbaa8b1527/LM35-interfacing.gif)
